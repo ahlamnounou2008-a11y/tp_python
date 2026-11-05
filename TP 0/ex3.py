@@ -1,0 +1,6 @@
+A=int(input("A="))
+T=int(input("T="))
+G=int(input("G="))
+C=int(input("c="))
+GC=(G+C)*100/(A+T+G+C)
+print("GC%=",GC)
